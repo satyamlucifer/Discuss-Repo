@@ -1,5 +1,5 @@
 # Discuss - Chat Application 
-Discuss is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+Discuss is chat application build with the power of MERN Stack.
 
 
 ![login page](./images/Discuss_login.png)
